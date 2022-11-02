@@ -12,7 +12,7 @@ ____
 
 The **Dashboard** provides a high-level overview of both the history and current status of your **Assets** and configured **Sources**. Additionally, it can also redirect you to other pages in the Sevco platform where you can review information in greater detail.
 
-![Dashboard page](Dashboard.png)
+![Dashboard page](/images/Dashboard.png)
 
 ## Asset Totals
 
