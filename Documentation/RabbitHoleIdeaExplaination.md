@@ -1,10 +1,10 @@
 # URL Structure
 
-So basically our current website structure is:
+So basically our current website structure for our platform is:
 
 `www.website.com/your-id/subpage`
 
-The `your-id` slug should be replaced with whatever name you have designated for your account. `subpage` is whatever page on the platform you are visiting. For example:
+The `your-id` slug should be replaced with whatever name you designated for your account when you initially signed up. `subpage` is whatever page on the platform you are visiting. For example:
 
 `www.website.com/sploot/buy-treatos`
 
