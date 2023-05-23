@@ -23,7 +23,7 @@ Because only the **Homepage** has a **permalink**, all other pages must contain 
 
 `www.website.com/your-id/profile`
 
-If you were to type in `www.website.com/settings` it would take you to the **Homepage** (`www.website.com`) by default, because the `/your-id/` slug was not specified and the Homepage is the only page with a **permalink** in the platform.
+If you were to type in `www.website.com/settings`, it would take you to the **Homepage** (`www.website.com`) by default because the `/your-id/` slug was not specified and the Homepage is the only page with a **permalink** in the platform.
 
 # Solution
 
