@@ -20,6 +20,7 @@ Currently there are no **permalinks** for any of the pages on the platform _expe
 Because only the **Homepage** has a **permalink**, all other pages must contain `/your-id/` for your browser to direct you to them. For example, the **Settings** and **Profile** page must be entered link this:
 
 `www.website.com/your-id/settings`
+
 `www.website.com/your-id/profile`
 
 If you were to type in `www.website.com/settings` it would take you to the **Homepage** (`www.website.com`) be default, because the `/your-id/` slug was not specified and the Homepage is the only page with a **permalink** in the platform.
