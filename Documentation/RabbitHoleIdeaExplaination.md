@@ -10,7 +10,7 @@ The `your-id` slug should be replaced with whatever name you designated for your
 
 ## The Sole Permalink
 
-A **permalink** is a link that is static and takes you to a website / page on a website no matter what. In the case of this platform, there's some fun **API** calls behind the scene to identify what account you are already logged into. 
+A **permalink** is a link that is static and takes you to a website / page on a website no matter what. In the case of this platform, there're some fun **API** calls behind the scene to identify what account you are already logged into. 
 
 Currently there are no **permalinks** for any of the pages on the platform _expect_ the **Homepage**. The **permalink** for the **Homepage** is `www.website.com`. Meaning if you were to type `www.website.com/your-id` without a `sub-page` specified, it would take you to `www.website.com` by default.
 
